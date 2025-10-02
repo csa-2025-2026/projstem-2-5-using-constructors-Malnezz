@@ -7,6 +7,16 @@
  * @author Kyle Vu
  * @version 1
  */
+
+public class Main
+{
+  public static void main(String[] args)
+  {
+    // write solutions to problems here
+    System.out.println(toString(Circle(10.1))); 
+  }
+}
+
 public class Circle
 {
     private double rad;
@@ -108,3 +118,4 @@ public class Circle
         return "A circle of radius " + rad;
     }
 }
+

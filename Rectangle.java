@@ -5,6 +5,7 @@
  * @author Kyle Vu
  * @version 1
  */
+
 public class Rectangle
 {
     private double len;
